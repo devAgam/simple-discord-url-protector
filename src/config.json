@@ -1,0 +1,11 @@
+{
+  "serverName": "",
+  "discordCredentials": {
+    "token": ""
+  },
+  "botSettings": {
+    "whitelistDomains": [],
+    "blacklistDomains": [],
+    "whitelistRoles": []
+  }
+}

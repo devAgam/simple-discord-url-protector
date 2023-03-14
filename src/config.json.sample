@@ -1,0 +1,11 @@
+{
+  "serverName": "your server name",
+  "discordCredentials": {
+    "token": "your token"
+  },
+  "botSettings": {
+    "whitelistDomains": ["npmjs.com", "discordapp.com"],
+    "blacklistDomains": ["pornhub.com", "xvideos.com"],
+    "whitelistRoles": ["Owner", "Admin"]
+  }
+}
